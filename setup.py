@@ -6,13 +6,13 @@ from aldryn_people import __version__
 
 REQUIREMENTS = [
     'Django>=1.11',
-    'aldryn-boilerplates',
-    'aldryn-common',
-    'aldryn-translation-tools',
+    #'aldryn-boilerplates',
+    #'aldryn-common',
+    #'aldryn-translation-tools',
     #'django-cms>=3.4.5',
-    'django-parler',
+    #'django-parler',
     #'django-filer',
-    'djangocms-text-ckeditor',
+    #'djangocms-text-ckeditor',
     'easy-thumbnails',
     'phonenumbers',
     'six',
