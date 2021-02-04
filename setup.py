@@ -18,7 +18,7 @@ REQUIREMENTS = [
     'six',
 
     # DO NOT REMOVE THE FOLLOWING, IT IS REQUIRED FOR EXISTING MIGRATIONS
-    'django-phonenumber-field>=0.7.2,<2.0.0',
+    'django-phonenumber-field<4.0.0,>=3.0.0',
 ]
 
 # https://pypi.python.org/pypi?%3Aaction=list_classifiers
